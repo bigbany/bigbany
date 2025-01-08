@@ -11,7 +11,6 @@
   
 ### OS
 - Linux
-[![Linux Badge](img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/)]
 - Windows
   
 ### Container
