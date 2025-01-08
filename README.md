@@ -4,39 +4,43 @@
 - I am an engineer who constantly learns, takes on challenges, grows, and evolves.
 
 ## 📚 Tech Stacks
-<div>
-  <p><strong>✔Server</strong></p>
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google Cloud-232F3E?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
-  <br>
+### Cloud Platform
+- AWS
+- AZURE
+- GCP
   
-  <p><strong>✔Containers</strong></p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
-  <img  src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <br>
+### OS
+- Linux
+- Windows
+  
+### Container
+- Docker
+- K8S
+- Helm
+- Kustomize
+  
+### CI/CD
+- Jenkins
+- Code Series
+- Github Actions
+- Argo CD
 
-  <p><strong>✔CI/CD</strong></p>
-  <img src="https://img.shields.io/badge/Github-2088FF?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/CloudBuild-2088FF?style=for-the-badge&logo=googlecloud&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Argo-EF7B4D?style=for-the-badge&logo=argo&logoColor=black"> 
-  <br>
+### IaC
+- Terraform
+- CloudFormation
 
-  <p><strong>✔Monitoring</strong></p>
-  <img src="https://img.shields.io/badge/CloudMonitoring-E6522C?style=for-the-badge&logo=googlecloud&logoColor=white">
-  <br>
+### Monitoring
+- Prometheus
+- DataDog
+- WhaTap
+- Splunk
 
-  <p><strong>✔IaC</strong></p>
-  <img src="https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
-  <img src="https://img.shields.io/badge/terraform cloud-000000?style=for-the-badge&logo=terraform&logoColor=white">
-  <br>
+### Programming/Scripting
+- Python
+- Shell Script
 
-  <p><strong>✔etc</strong></p>
-  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-  <img src="https://img.shields.io/badge/jmeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white">
-  <br>
 
+## 📚 Contact
 <div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://bigbany.github.io/)](https://bigbany.github.io/) 
