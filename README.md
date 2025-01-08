@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Hyeonkang!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
-## Cloud Engineer
+## 💻 Cloud Engineer
 - I am an engineer who constantly learns, takes on challenges, grows, and evolves.
 
 ## 📚 Tech Stacks
@@ -11,6 +11,7 @@
   
 ### OS
 - Linux
+[![Linux Badge](img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/)]
 - Windows
   
 ### Container
@@ -40,7 +41,7 @@
 - Shell Script
 
 
-## 📚 Contact
+## ☎️ Contact
 <div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://bigbany.github.io/)](https://bigbany.github.io/) 
