@@ -5,39 +5,25 @@
 
 ## 📚 Tech Stacks
 ### Cloud Platform
-- AWS
-- AZURE
-- GCP
+AWS, AZURE, GCP
   
 ### OS
-- Linux
-- Windows
+Linux, Windows
   
 ### Container
-- Docker
-- K8S
-- Helm
-- Kustomize
+Docker, K8S, Helm, Kustomize
   
 ### CI/CD
-- Jenkins
-- Code Series
-- Github Actions
-- Argo CD
+Jenkins, Code Series, Github Actions, Argo CD
 
 ### IaC
-- Terraform
-- CloudFormation
+Terraform, CloudFormation
 
 ### Monitoring
-- Prometheus
-- DataDog
-- WhaTap
-- Splunk
+Prometheus, DataDog, WhaTap, Splunk
 
 ### Programming/Scripting
-- Python
-- Shell Script
+Python, Shell Script
 
 
 ## ☎️ Contact
