@@ -42,7 +42,7 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://bigbany.github.io/)](https://bigbany.github.io/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%ED%98%84%EA%B0%95-%EB%B0%95-8560a7281/)](https://www.linkedin.com/in/%ED%98%84%EA%B0%95-%EB%B0%95-8560a7281/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kang2world/)](https://www.instagram.com/kang2world/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bigbaby9728@gmail.com)](mailto:snugyun01@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bigbaby9728@gmail.com)](mailto:bigbaby9728@gmail.com)
 </div>
 
 <!--
